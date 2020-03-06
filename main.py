@@ -1,4 +1,8 @@
 ##For Engineering and Mechanics/POE, by Jpfeif29
+##Regardless of the psudo random nature of random number generation on current computers the distrubution should *in theory* be a perfect distrubution
+##Baring solar flares of course
+
+
 
 import random
 import time
