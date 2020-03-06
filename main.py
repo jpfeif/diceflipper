@@ -1,4 +1,4 @@
-##For Engineering an Mechanics/POE, by Jpfeif29
+##For Engineering and Mechanics/POE, by Jpfeif29
 
 import random
 import time
